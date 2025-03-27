@@ -109,6 +109,6 @@
 ## 📫 **Connect With Me**  
 - 🔗 **LinkedIn**: [linkedin.com/in/abuzaryounus](https://www.linkedin.com/in/abuzaryounus)  
 - 📧 **Email**: [abuzaryounusww@gmail.com](mailto:abuzaryounusww@gmail.com)  
-- 💻 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- 💻 **GitHub**: [github.com/yourusername](https://github.com/M-younus88)  
 
 > *"Bridging data science with scalable software engineering to solve real-world challenges."*  
