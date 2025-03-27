@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Your Name]  
 ### **Software Developer | Full-Stack Engineer | AI/ML Specialist**  
-📍 Based in *[Your Location]* | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | ✉️ [Email](mailto:youremail@example.com)  
+📍 Based in *[Your Location]* | 🔗 [LinkedIn](www.linkedin.com/in/abuzaryounus) | ✉️ [Email](abuzaryounusww@gmail.com)  
 
 ---
 
